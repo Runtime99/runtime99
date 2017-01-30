@@ -78,11 +78,8 @@ I hope this was helpful in figuring out how to tackle the softballs. Next week, 
 
 ## Stay in touch with us! 
 
-** You Can **
 
-<div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='1544412312527068' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function() { FB.init({ appId : '1678638095724206', xfbml : true, version : 'v2.6' }); }; (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-
-** Or you can get on our guest list **
+**Get notified when our new piece is out** 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="//blogger.us3.list-manage.com/subscribe/post?u=87dd3bfd31fcd90762adfd7bd&amp;id=f7a199b9ba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -95,4 +92,6 @@ I hope this was helpful in figuring out how to tackle the softballs. Next week, 
 </form>
 </div>
 
-## Ideally both 
+**If you are bored, you Can also**
+
+<div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='1544412312527068' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function() { FB.init({ appId : '1678638095724206', xfbml : true, version : 'v2.6' }); }; (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
