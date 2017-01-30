@@ -86,12 +86,12 @@ I hope this was helpful in figuring out how to tackle the softballs. Next week, 
 <div id="mc_embed_signup_scroll">
 <label for="mce-EMAIL">Help us help you by entering your email address</label>
 <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_87dd3bfd31fcd90762adfd7bd_f7a199b9ba" tabindex="-1" value=""></div>
+<div style="position: absolute; left: -4000px;" aria-hidden="true"><input type="text" name="b_87dd3bfd31fcd90762adfd7bd_f7a199b9ba" tabindex="-1" value=""></div>
 <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 </div>
 </form>
 </div>
 
-**If you are bored, you Can also**
+**If you are bored, you can also**
 
 <div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='1544412312527068' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function() { FB.init({ appId : '1678638095724206', xfbml : true, version : 'v2.6' }); }; (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
