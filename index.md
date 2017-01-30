@@ -9,7 +9,7 @@ This is your ticket to shine. This is the question that you should, at the very 
 ```markdown
 
 - What is your full God given name
-- Insert humorous naming incident and/or any nicknames with preferably                                                          an origin story for that nickname
+- Insert humorous naming incident and/or any nicknames with preferably an origin story for that nickname
 - Where did you go to school?
 - What did you do before this?
 - And an anecdote about how you ended up here at this very moment
@@ -27,7 +27,7 @@ Heylo John Interviewee! Tell me about yourself
 ```markdown
  
 - I am John, John Interviewee
-- My friends call me int because we learnt programming together and we are geeky like that :)
+- My friends call me int because we learnt programming together :)
 - This will be my first job after college
 - I had a couple of research internships at the crack den – that’s what we called our AI Lab
 - One of my professors referred me to this job and I am excited to be here!
@@ -41,7 +41,7 @@ Heylo John Interviewee! Tell me about yourself
 ```markdown
 
 - I am John, John Interviewee
-- My friends call me View because I worked at CBS before this and they had a hit show called the View
+- My friends call me View because I worked at CBS before this and they had this hit show
 - This will be my first job back in the bay after about 4 years
 - I worked on virtualization and graphics rendering
 - I am excited about the advances that your company has made so I wanted to send in my application
