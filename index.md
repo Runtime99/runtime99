@@ -88,3 +88,4 @@ I hope this was helpful in figuring out how to tackle the softballs. Next week, 
 </form>
 </div>
 
+**Or you can even** <div class='fb-messengermessageus' id='fb-messengermessageus' messenger_app_id='1678638095724206' page_id='1544412312527068' color='blue' size='xlarge'></div><script> window.fbAsyncInit = function() { FB.init({ appId : '1678638095724206', xfbml : true, version : 'v2.6' }); }; (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
