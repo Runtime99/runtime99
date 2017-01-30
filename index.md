@@ -16,8 +16,9 @@ This is your ticket to shine. This is the question that you should, at the very 
  
 It does not have to be formal, it does not even have to be rehearsed. Just try to get through it without too many “Ummmmms….”. Its your introduction dammit, you are supposed to get that right.
  
- 
-_Here is an example_
+--- 
+
+_Here are a few examples_
  
 Heylo John Interviewee! Tell me about yourself
 
@@ -46,7 +47,10 @@ Heylo John Interviewee! Tell me about yourself
 
 ```
 
-###See: That was awesome. He is relaxed; he draws on his experience and right off the bat he brings in his own reason for wanting to join this company. This may or may not be genuine but it surely sets up a good platform for future conversation. Here’s an example of how this would not have gone well
+See: That was awesome. He is relaxed; he draws on his experience and right off the bat he brings in his own reason for wanting to join this company. This may or may not be genuine but it surely sets up a good platform for future conversation. 
+
+---
+####Here’s an example of how this would not have gone well
  
 Heylo John Interviewee! Tell me about yourself
  
@@ -67,3 +71,5 @@ Believe me, the quoting Hitler bit was the least of this guys problems. So, allo
 - Impacts are good and bad, lets not lean towards the latter
 - Generic introductions are bad introductions
 - You are here for a “chat”, a “Conversation”. You are not here to be hired. Do not sound desperate
+
+I hope this was helpful in figuring out how to tackle the softballs. Next week, we tackle the real painful pieces of the interview process
