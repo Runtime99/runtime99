@@ -72,7 +72,7 @@ Believe me, the quoting Hitler bit was the least of this guys problems. So, allo
 - Generic introductions are bad introductions
 - You are here for a “chat”, a “Conversation”. You are not here to be hired. Do not sound desperate
 
-I hope this was helpful in figuring out how to tackle the softballs. Next week, we tackle the real painful pieces of the interview process
+I hope this was helpful in figuring out how to tackle the softballs. Next week, we tackle the real painful pieces of the interview process. Enter your email address so we can stay in touch
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
