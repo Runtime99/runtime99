@@ -7,7 +7,7 @@ This is your ticket to shine. This is the question that you should, at the very 
 ```markdown
 
 - What is your full God given name
-- Insert humorous naming incident and/or any nicknames with preferably an origin story for that nickname
+- Insert humorous naming incident and/or any nicknames with preferably                                                          an origin story for that nickname
 - Where did you go to school?
 - What did you do before this?
 - And an anecdote about how you ended up here at this very moment
