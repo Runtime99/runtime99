@@ -40,7 +40,9 @@ Heylo John Interviewee! Tell me about yourself
 - I am John, John Interviewee
 - My friends call me View because I worked at CBS before this and they had a hit show called the View
 - This will be my first job back in the bay after about 4 years
-- I worked on virtualization and graphics rendering, I am excited about the advances that your company has made so I wanted to send in my application, move back to the bay and check you guys out!
+- I worked on virtualization and graphics rendering
+- I am excited about the advances that your company has made so I wanted to send in my application
+- And hopefully move back to the bay and check you guys out!
 
 ```
 
