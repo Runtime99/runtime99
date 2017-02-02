@@ -18,7 +18,7 @@ This is your ticket to shine. This is the question that you should, at the very 
  
 It does not have to be formal, it does not even have to be rehearsed. Just try to get through it without too many “Ummmmms….”. Its your introduction dammit, you are supposed to get that right.
  
-![Don't be Ummming](https://github.com/Runtime99/runtime99/blob/master/int1_image1.png)
+![Don't be Ummming](int1_image1.png)
 
 --- 
 
