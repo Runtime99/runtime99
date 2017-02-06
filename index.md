@@ -62,12 +62,12 @@ Ans:
  
 - Hello
 - Kind and esteemed gentleman, I am happy to share this stage of life with you
-- I am an extremely hard workder because I believe that work will set me free if I have blind faith in myself
+- I am an extremely hard worker because I believe in myself, relatively blindly
 - And much like the financial crisis of 2008, I believe in having an impact
 - I have experience as a Software Engineer
 - I like your posting for job, I would like to be hired
  
-Believe me, the quoting Hitler bit was the least of this guys problems. So, allow me to demonstrate where this guy went wrong
+Believe me, the robotic tune was the least of this guys problems. So, allow me to demonstrate where this guy went wrong
 
 - Fuck off John, no one says Hello anymore. Hi is in
 - Do not be formal in a place where people blare rap, down beer kegs and wear shorts
