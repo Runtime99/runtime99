@@ -54,7 +54,7 @@ Heylo John Interviewee! Tell me about yourself
 See: That was awesome. He is relaxed; he draws on his experience and right off the bat he brings in his own reason for wanting to join this company. This may or may not be genuine but it surely sets up a good platform for future conversation. 
 
 ---
-####Here’s an example of how this would not have gone well
+Here’s an example of how this would not have gone well
  
 Heylo John Interviewee! Tell me about yourself
  
